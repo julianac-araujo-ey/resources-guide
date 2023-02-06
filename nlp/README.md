@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="images/images/nlp.png" width="25%">
+  <img src="images/nlp.png" width="25%">
 
   
  📚  📝 🎥 NLP resources  🎥 📝 📚  
