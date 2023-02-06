@@ -44,6 +44,69 @@ Online Course/Book                   | Difficulty Level
 [Christopher Manning Introduction to Information Retrieval📚][manninginformationr]| ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 
 
+
+-------------------------------------------------------------------------------- 
+[manninginformationr]: https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf
+[fsnlp]: https://github.com/shivamms/books/blob/master/nlp/Foundations%20of%20Statistical%20Natural%20Language%20Processing%20-%20Christopher%20D.%20Manning.pdf
+[jurafskybook]: https://web.stanford.edu/~jurafsky/slp3/
+[jurafskynlp]: https://www.youtube.com/watch?v=zQ6gzQ5YZ8o&list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ
+[cmunlp2021]: https://www.youtube.com/watch?v=vnx6M7N-ggs&list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV
+[stanfordnlu]: https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
+[michigannlp]:https://www.youtube.com/watch?v=n25JjoixM3I&list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR 
+[oxfordnlp]: https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
+[courseraRL]: https://www.coursera.org/specializations/reinforcement-learning
+[sergie2020rl]: https://www.youtube.com/watch?v=JHrlF10v2Og&list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
+[cs885]: https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc
+[ucb2018rl]: https://www.youtube.com/watch?v=ue9aS17d5iI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=2
+[cs330]: https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
+[cs234]: https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
+[dsIntrodu]: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+[rlbook]: http://incompleteideas.net/book/RLbook2020.pdf
+[Ian]: https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf
+[fast2]: https://course19.fast.ai/part2
+[fast1]: https://course.fast.ai/
+[abdeeladv]: https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP
+[durham]: https://www.youtube.com/watch?v=s2uXPz3wyCk&list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57
+[deepbookexp]: https://www.youtube.com/watch?v=vi7lACKOUao&list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b
+[hugodeep]: https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
+[jeoff]: https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
+[DeepPy]: https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
+[berkley2020]: https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW
+[ucladvrein]: https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
+[alideep]: https://www.youtube.com/watch?v=fyAZszlPphs&list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE
+[stanfordnlp2019]: https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+[oxforddeep]: https://www.youtube.com/watch?v=PlhFWT7vAEw&list=RDQMa66mIb9tImc&start_radio=1
+[stanfcnn]: https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+[cmudeep]: https://www.youtube.com/watch?v=0Oqpax2Q2hc&list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe
+[fau]: https://www.youtube.com/watch?v=p-_Stl0t3kU&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj
+[18standeep]: https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+[talkie]: https://www.youtube.com/watch?v=vFYkyk_GmWM&list=PLhb1t0L7sKy2q7on_7dpgOACs3qpNbfkR&index=2
+[ucl2020]: https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
+[boyd]: https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+[cmuopti]: https://www.youtube.com/watch?v=Di9f47LAzHQ&list=PLRPU00LaonXQ27RBcq6jFJnyIbGw5azOI
+[cmuadvopti]: https://www.youtube.com/watch?v=yBO4E1FARaA&list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d
+[stanfordopti]: https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622
+[calcbok]: http://index-of.co.uk/Mathematics/Calculus%20-%20J.%20Stewart.pdf
+[princeton]: https://www.youtube.com/watch?v=uDByROsGzuk&list=PLGqzsq0erqU7h6_bpE-CgJp4iX5aRju28
+[multi07]: https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38
+[strangcalc]: https://www.youtube.com/watch?v=X9t-u87df3o&list=PLBE9407EA64E2C318
+[single07]: https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1
+[matrixmethods]: https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
+[bluecal]: https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x
+[probBook]: http://www.seyedkalali.com/wp-content/uploads/2016/11/A-First-Course-in-Probability-8th-ed.-Sheldon-Ross.pdf
+[stanfordprobgraph]: https://www.youtube.com/watch?v=GqMzbbaN6T4&list=PLzERW_Obpmv-_TkPEmCyzaJUGHtl7S01i
+[cmuprob]: https://www.youtube.com/watch?v=oqvdH_8lmCA&list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn
+[mitprob18]: https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
+[mitprob11]: https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8
+[harvard]: https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
+[MMLLA]: https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
+[3blue]: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+[gilbertStrang]: https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D
+[Friedberg]: https://npqke7p41z.pdcdn2.xyz/dl2.php?id=187502855&h=fe4fe4abfa10c9c6a51456cdff771ba1&u=cache&ext=pdf&n=Linear%20algebra%204th%20edition
+[mmlbook]: https://mml-book.github.io/book/mml-book.pdf
+[James_Hamblin]: https://www.youtube.com/watch?v=HAoL5fPmgrw&list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86
+[keras]: https://www.manning.com/books/deep-learning-with-python
+
 ### Academic NLP Papers :
 ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 
