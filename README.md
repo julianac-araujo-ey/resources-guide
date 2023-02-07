@@ -12,13 +12,13 @@
 
 ```bash
 .
-├── imeages
+├── images
 │   ├── nlp.png
 ├── .gitignore
 ├── README.md
 ```
 
-1 directories, 3 files
+1 directory, 3 files
 
 ## Natural Language Processing
 
@@ -71,16 +71,16 @@ Machine Learning or Deep Learning pipelines.
 - [Stanza - A Python NLP Library for Many Human Languages](https://stanfordnlp.github.io/stanza/)
 - [FlairNLP: A very simple framework for state-of-the-art Natural Language Processing (NLP)](https://github.com/flairNLP/flair)
 - [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io/en/latest/)
-- [WhatLies: A library that tries help you to understand. "What lies in word embeddings?"](https://rasahq.github.io/whatlies/)
-- [LASER:a library to calculate and use multilingual sentence embeddings](https://github.com/facebookresearch/LASER)
+- [WhatLies: A library that tries to help you to understand. "What lies in word embeddings?"](https://rasahq.github.io/whatlies/)
+- [LASER: a library to calculate and use multilingual sentence embeddings](https://github.com/facebookresearch/LASER)
 - [Sentence Transformers: Multilingual Sentence Embeddings using BERT / RoBERTa / XLM-RoBERTa & Co. with PyTorch](https://github.com/UKPLab/sentence-transformers)
-- [Datasets: a lightweight library with one-line dataloaders for many public datasets in NLP](https://github.com/huggingface/datasets)
+- [Datasets: a lightweight library with one-line data loaders for many public datasets in NLP](https://github.com/huggingface/datasets)
 
 
 ### Academic NLP Papers :
 ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 
-Books and online courses are a great place to start, but at some point it becomes necessary to dig deeper, 
+Books and online courses are a great place to start, but at some point, it becomes necessary to dig deeper, 
 and that means looking at the academic literature!
 
 #### Clustering & Word/Sentence Embeddings  📝
@@ -88,10 +88,10 @@ and that means looking at the academic literature!
 A crucial component in most natural language processing (NLP) applications is finding an expressive 
 representation for text. 
 
-A word embedding is a vector representation of a word. Words, which often occur in similar context (a king and a queen),
-are assigned vector that are close by each other and words, which rarely occur in a similar context 
-(a king and a motorcycle), dissimilar vectors. The embedding vectors are dense, 
-relatively low dimensional (typically 50-300 dimensions) vectors.
+A word embedding is a vector representation of a word. Words, which often occur in a similar context (a king and a queen),
+are assigned vectors that are close to each other, and words, which rarely occur in a similar context 
+(a king and a motorcycle), are dissimilar vectors. The embedding vectors are dense, 
+relatively low-dimensional (typically 50-300 dimensions) vectors.
 
 Modern methods are typically based on sentence embeddings that map a 
 sentence onto a numerical vector. The vector attempts to capture the semantic content of the text. 
@@ -159,11 +159,11 @@ Language modeling is the task of predicting the next word or character in a docu
 
 #### Segmentation, Tagging, Parsing  📝
 
-Text segmentation is the process of dividing written text into meaningful units, such as words, sentences, or topics. 
+Text segmentation is the process of dividing the written text into meaningful units, such as words, sentences, or topics. 
 
 Part-of-speech tagging (POS tagging) is the task of tagging a word in a text with its part of speech. A part of speech 
-is a category of words with similar grammatical properties. Common English parts of speech are noun, verb, adjective, 
-adverb, pronoun, preposition, conjunction, etc.
+is a category of words with similar grammatical properties. Common English parts of speech are nouns, verbs, adjectives, 
+adverbs, pronouns, prepositions, conjunction, etc.
 
 Dependency parsing is the task of extracting a dependency parse of a sentence that represents its grammatical structure 
 and defines the relationships between "head" words and words, which modify those heads.
@@ -193,7 +193,7 @@ Semantic role labeling aims to model the predicate-argument structure of a sente
 "Who did what to whom". BIO notation is typically used for semantic role labeling.
 
 Information Extraction is the process of sifting through unstructured data and extracting vital information into more 
-editable and structured data forms is known as information extraction.
+editable and structured data forms are known as information extraction.
 
 - Marti A. Hearst: Automatic Acquisition of Hyponyms from Large Text Corpora, COLING 1992.
 
@@ -288,7 +288,7 @@ Question answering is the task of answering a question.
 #### Generation 📝
 
 Text generation is the task of generating text with the goal of appearing indistinguishable to human-written text. 
-This task if more formally known as "natural language generation" in the literature.
+This task is more formally known as "natural language generation" in the literature.
 
 - Jiwei Li, et al.: Deep Reinforcement Learning for Dialogue Generation, EMNLP 2016.
 
@@ -300,5 +300,5 @@ This task if more formally known as "natural language generation" in the literat
 
 
 ```diff
-- Suggestions and pull requests are welcome. The goal is to make this a collaborative effort to maintain an updated list of nlp resources.
+- Suggestions and pull requests are welcome. The goal is to make this a collaborative effort to maintain an updated list of NLP resources.
 ```
