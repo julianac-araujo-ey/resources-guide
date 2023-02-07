@@ -71,13 +71,15 @@ Machine Learning or Deep Learning pipelines.
 - [Stanza - A Python NLP Library for Many Human Languages](https://stanfordnlp.github.io/stanza/)
 - [FlairNLP: A very simple framework for state-of-the-art Natural Language Processing (NLP)](https://github.com/flairNLP/flair)
 - [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io/en/latest/)
-- [WhatLies: A library that tries to help you to understand. "What lies in word embeddings?"](https://rasahq.github.io/whatlies/)
+- [WhatLies: A library that tries help you to understand. "What lies in word embeddings?"](https://koaning.github.io/whatlies/)
 - [LASER: a library to calculate and use multilingual sentence embeddings](https://github.com/facebookresearch/LASER)
 - [Sentence Transformers: Multilingual Sentence Embeddings using BERT / RoBERTa / XLM-RoBERTa & Co. with PyTorch](https://github.com/UKPLab/sentence-transformers)
+- [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
 - [Datasets: a lightweight library with one-line data loaders for many public datasets in NLP](https://github.com/huggingface/datasets)
 
+-------------------------------------------------------------------------------- 
 
-### Academic NLP Papers :
+### Academic NLP Papers
 ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 
 Books and online courses are a great place to start, but at some point, it becomes necessary to dig deeper, 
@@ -156,6 +158,8 @@ Language modeling is the task of predicting the next word or character in a docu
 - Radford et al.: Improving language understanding by generative pre-training, 2018.
 
 - Devlin et al.: Bert: Pre-training of deep bidirectional transformers for language understanding, 2018.
+
+- Ouyang et al.: [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf), 2022.
 
 #### Segmentation, Tagging, Parsing  📝
 
